@@ -1,9 +1,9 @@
 # Site settings
 title_left    : "Justin Lou"
 title_right   : "" # default: ""
-description   : "Teaching Resources"
+description   : "Teaching Surveys"
 keywords      : ""
-url           : https://teaching.justinlou.me/ # site url
+url           : https://surveys.justinlou.me/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 

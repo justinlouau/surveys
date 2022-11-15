@@ -3,9 +3,15 @@ layout: page
 permalink: /feedback
 ---
 
+#### Student Surveys
+
+To provide feedback through the UOS and FFT surveys, please use this link:
+- [https://student-surveys.sydney.edu.au](https://student-surveys.sydney.edu.au)
+
+<br>
+
 #### Anonymous Feedback
 
-If you have any any anonymous feedback, please use the form below:
+If you have any anonymous feedback, please use the form below:
 - [https://forms.gle/ww7vHy9hnHcWK2u3A](https://forms.gle/ww7vHy9hnHcWK2u3A)
 
-If you have any feedback you would be willing to discuss with me, you can email me directly at <a href = "mailto: justin.lou@sydney.edu.au">justin.lou@sydney.edu.au</a>

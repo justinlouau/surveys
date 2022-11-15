@@ -10,11 +10,11 @@ At the University of Sydney, Unit of Study surveys are sent out twice a semester
 For the sake of transparency, I try share all my survey results publically along with my responses, with the exception of surveys with less than 5 particpants. 
 
 **Semester 1 2022**
-- S1 Mid
-- S1 End
+- [Freeform Feedback](/surveys/S1_Freeform.pdf)
+- [Statistical Feedback](/surveys/S1_Ratings.pdf)
 
 **Semester 2 2022**
-- S2 Mid
-- S2 End
+- *Coming Soon*
 
 I also occasionally conduct anonomous surveys of my classes outside of these period where I feel nessesary, and may release those if I find anything interesting. 
+
