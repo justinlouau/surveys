@@ -2,6 +2,7 @@
 layout: page
 permalink: /feedback
 ---
+<meta name='robots' content='noindex,nofollow' />
 
 #### Student Surveys
 

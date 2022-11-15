@@ -2,12 +2,13 @@
 layout: page
 permalink: /
 ---
+<meta name='robots' content='noindex,nofollow' />
 
 #### UOS Surveys
 
 At the University of Sydney, Unit of Study surveys are sent out twice a semester to help academic staff to improve their teaching.
 
-For the sake of transparency, I try share all my survey results publically along with my responses, with the exception of surveys with less than 5 particpants. 
+Since I've started teaching in 2022, I try share all my survey results publically, alongside any comments or follow up in response to feedback.
 
 **Semester 1 2022**
 - [Freeform Feedback](/surveys/S1_Freeform.pdf)
