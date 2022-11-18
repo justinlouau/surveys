@@ -13,6 +13,9 @@ To provide feedback through the UOS and FFT surveys, please use this link:
 
 #### Anonymous Feedback
 
-If you have any anonymous feedback, please use the form below:
+Otherwise if you have any anonymous feedback, please use the form below:
 - [https://forms.gle/ww7vHy9hnHcWK2u3A](https://forms.gle/ww7vHy9hnHcWK2u3A)
 
+<br>
+
+Feel free to also message or chat to me after class for the fastest response.
