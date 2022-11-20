@@ -33,6 +33,4 @@ Since I've started tutoring in 2022, I try share all my survey results publicly,
 
 ---
 
-I also collect feedback outside of outside of official survey periods, and may release responses or changes relating to those if I find anything interesting. 
-
-Once I have time, I plan on putting together some resources to breakdown different teaching strategies and tutorial structures I've tried, and their impact in relation to my feedback results as a way to continually improve my teaching and as a potencial resource for other tutors and the broader community. 
+Once I have time, I plan on putting together some reflections and anecdotes from this data as a potential resource for myself and others. I also collect feedback outside of official survey periods, which I might also release if I find anything interesting. 
